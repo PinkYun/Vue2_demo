@@ -2,6 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>     
+    12312123
     <br>
     <br>
     <el-input style="width: 200px;" v-model="phone" placeholder="请输入内容"></el-input>
